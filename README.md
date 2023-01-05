@@ -10,6 +10,6 @@
 ```zhs
 # in ft_containers directory
 git clone git@github.com:mlanca-c/ft_containers_test.git test; cd test/
-bash ft_containers_test.sh [ft] # tests your containers
-bash ft_containers_test.sh [std] # tests std containers
+bash ft_containers_test.sh ft # tests your containers
+bash ft_containers_test.sh std # tests std containers
 ```
