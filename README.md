@@ -6,3 +6,10 @@
 [![Size](https://img.shields.io/github/repo-size/mlanca-c/ft_containers_test?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/mlanca-c/ft_containers_test)
 [![Activity](https://img.shields.io/github/last-commit/mlanca-c/ft_containers_test?color=red&label=Last%20Commit&style=flat)](https://github.com/mlanca-c/ft_containers_test)
 
+# How to use
+```zhs
+# in ft_containers directory
+git clone git@github.com:mlanca-c/ft_containers_test.git test; cd test/
+bash ft_containers_test.sh [ft] # tests your containers
+bash ft_containers_test.sh [std] # tests std containers
+```
